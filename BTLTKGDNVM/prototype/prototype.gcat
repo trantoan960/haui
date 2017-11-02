@@ -1,0 +1,12 @@
+<Catalogue
+	CID = "1"
+	NextCID = "2">
+	<Files
+		CID = "1">
+		<FileInfo
+			ID = "89F446FE-5350-4ED8-AA8D120E7BAD1813"
+			RelativePath = "DangNhapUI.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "DangNhapUI.gui"/>
+	</Files>
+</Catalogue>

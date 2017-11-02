@@ -1,0 +1,14 @@
+<Workspace
+	CID = "1"
+	NextCID = "2"
+	IconCategory = "Miscellaneous">
+	<OpenFiles
+		CID = "1"
+		LastActive = "1">
+		<File
+			FileID = "89F446FE-5350-4ED8-AA8D120E7BAD1813"
+			RootPath = "$Container"
+			RelativePathname = "DangNhapUI.gui"
+			ViewSettings = ""/>
+	</OpenFiles>
+</Workspace>
